@@ -1,6 +1,5 @@
-Supplement Sales Analysis using Power BI
 
-**PROJECT OVERVIEW**
+**PROJECT OVERVIEW**: 
 This project presents an interactive Power BI dashboard built to analyze supplement sales data from **Amazon, Walmart and iHerb** between **01-01-2020 to 30-04-2025**.  
 The goal was to uncover key business insights by tracking KPIs, analyzing sales performance and enabling data-driven decision-making.
 
