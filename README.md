@@ -1,5 +1,4 @@
 
-**PROJECT OVERVIEW**: 
 This project presents an interactive Power BI dashboard built to analyze supplement sales data from **Amazon, Walmart and iHerb** between **01-01-2020 to 30-04-2025**.  
 The goal was to uncover key business insights by tracking KPIs, analyzing sales performance and enabling data-driven decision-making.
 
@@ -13,7 +12,7 @@ The goal was to uncover key business insights by tracking KPIs, analyzing sales 
   - Top-performing products → *Biotin ($1.49M)*  
   - Best-performing platform → *iHerb ($7.9M)*  
   - Top region → *UK ($7.85M)*
-  - 
+  
 ## 📈 Insights Derived
 - iHerb contributed the highest revenue share among platforms.  
 - UK emerged as the leading market with $7.85M in sales.  
